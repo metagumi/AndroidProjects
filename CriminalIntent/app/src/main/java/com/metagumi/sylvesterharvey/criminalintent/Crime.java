@@ -3,7 +3,7 @@ package com.metagumi.sylvesterharvey.criminalintent;
 import java.util.UUID;
 
 /**
- * Created by sylvesterharvey on 12/19/16. model
+ * Created by sylvesterharvey on 12/19/16. model layer
  */
 
 public class Crime {
