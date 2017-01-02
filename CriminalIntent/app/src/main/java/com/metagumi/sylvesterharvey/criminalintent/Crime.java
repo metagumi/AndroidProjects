@@ -7,10 +7,15 @@ import java.util.UUID;
  * Created by sylvesterharvey on 12/19/16. model layer
  */
 
+
+// listing 8.2
+
 public class Crime {
     private UUID mId;
     private String mTitle;
     private Date mDate;
+    private boolean mSolved;
+
 
     public Date getDate() {
         return mDate;
@@ -27,9 +32,6 @@ public class Crime {
     public void setSolved(boolean solved) {
         mSolved = solved;
     }
-
-    private boolean mSolved;
-
 
     public UUID getId() {
         return mId;

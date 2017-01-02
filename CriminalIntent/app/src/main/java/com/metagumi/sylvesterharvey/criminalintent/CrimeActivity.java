@@ -8,6 +8,8 @@ import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+// Good up to page 166
+
 public class CrimeActivity extends FragmentActivity {
 
     @Override
